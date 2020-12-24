@@ -1,5 +1,6 @@
-### Привет! Я Черных Александр и это информация обо мне👋
-#### Fullstack разработчик
+## Hey 👋, This is Alexander Chernykh
+[![Github Badge](https://img.shields.io/badge/-whitered932-grey?style=flat&logo=github&logoColor=white&link=https://github.com/whitered932/)](https://www.github.com/whitered932/) <p align='left'>Fullstack develeper 2+ years
+</p>
 
 [![](https://github-readme-stats.vercel.app/api?username=whitered932&show_icons=true)](https://github.com/whitered932/whitered932)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitered932&layout=compact)](https://github.com/whitered932/whitered932)
@@ -18,8 +19,6 @@
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
-
-
 
 
 
