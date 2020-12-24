@@ -1,4 +1,4 @@
-### Привет! Я Черных Александр👋
+### Привет! Я Черных Александр и это информация обо мне👋
 #### Fullstack разработчик
 
 [![](https://github-readme-stats.vercel.app/api?username=whitered932&show_icons=true)](https://github.com/whitered932/whitered932)
