@@ -6,7 +6,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitered932&layout=compact)](https://github.com/whitered932)
 ---
 [![](https://github-readme-stats.vercel.app/api/pin/?username=whitered932&repo=wheres-they-server)](https://github.com/whitered932/wheres-they-server)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=whitered932&repo=wheres-they-client)](https://github.com/whitered932/wheres-they-client)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=altiore&repo=lorder.ui)](https://github.com/altiore/lorder.ui)
 ---
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=red)
