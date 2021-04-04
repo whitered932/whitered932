@@ -1,5 +1,5 @@
 ## Hey 👋, There is Alexander Chernykh / whitered932
-[![Github Badge](https://img.shields.io/badge/-whitered932-grey?style=flat&logo=github&logoColor=white&link=https://github.com/whitered932/)](https://www.github.com/whitered932/) <p align='left'>Fullstack develeper 2+ years
+[![Github Badge](https://img.shields.io/badge/-whitered932-grey?style=flat&logo=github&logoColor=white&link=https://github.com/whitered932/)](https://www.github.com/whitered932/) <p align='left'>Fullstack/Android develeper 2+ years
 </p>
 
 [![](https://github-readme-stats.vercel.app/api?username=whitered932&show_icons=true)](https://github.com/whitered932)
