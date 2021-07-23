@@ -4,7 +4,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=whitered932&show_icons=true)](https://github.com/whitered932)
 ---
-[![](https://github-readme-stats.vercel.app/api/pin/?username=whitered932&repo=wheres-they-server)](https://github.com/whitered932/wheres-they-server)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=altiore&repo=lorder.ui)](https://github.com/altiore/lorder.ui)
 ---
 
